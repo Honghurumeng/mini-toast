@@ -7,7 +7,7 @@ demo
 使用方法
 
 ``` html
-<script src="./autolog.js"></script>
+<script src="./mtoast.js"></script>
 <script>
         document.addEventListener('DOMContentLoaded', function () {
             autolog.warn('请勿在此页面输入任何敏感信息。');
