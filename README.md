@@ -1,5 +1,9 @@
 # mini-toast
 
+demo
+
+![示例GIF](./demo.gif)
+
 使用方法
 
 ``` html
@@ -19,6 +23,6 @@
 </script>
 ```
 
-demo
+说明
 
-![示例GIF](./mini-toast-demo.gif)
+这个项目是我从https://github.com/LarryZhu-dev/autolog.js这个项目改进而来，并且依然遵守MIT。
