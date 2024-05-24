@@ -25,4 +25,4 @@ demo
 
 说明
 
-这个项目是我从https://github.com/LarryZhu-dev/autolog.js这个项目改进而来，并且依然遵守MIT。
+这个项目是我从 https://github.com/LarryZhu-dev/autolog.js 这个项目改进而来，并且依然遵守MIT。
