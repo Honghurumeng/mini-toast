@@ -1,10 +1,10 @@
 # mini-toast
 
-demo
+## Demo
 
 [点击这里查看Demo](https://honghurumeng.github.io/mtoast-demo)
 
-使用方法
+## 使用方法
 
 ``` html
 <script src="./mtoast.js"></script>
@@ -20,7 +20,3 @@ demo
     clicklog.success('可以使用“\\n”进行换行，或者到达最大宽度自动换行。');
 </script>
 ```
-
-说明
-
-这个项目是我从 https://github.com/LarryZhu-dev/autolog.js 这个项目改进而来，并且依然遵守MIT。
