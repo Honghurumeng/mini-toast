@@ -11,7 +11,7 @@
 <script>
     autolog.warn('请勿在此页面输入任何敏感信息。');
     autolog.error('请勿在此页面输入任何敏感信息。');
-    autolog.info('请勿在此页面输入任何敏感信息。');
+    autolog.info('autolog toast默认2秒钟后自动消失。');
     autolog.success('设置第二个参数time，可以让时间更持久。', 10000);
 
     clicklog.warn('白日依山尽，\n黄河入海流。\n欲穷千里目，\n更上一层楼。');
